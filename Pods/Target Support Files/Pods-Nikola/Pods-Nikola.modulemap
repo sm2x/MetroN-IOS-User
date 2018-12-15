@@ -1,0 +1,6 @@
+framework module Pods_Nikola {
+  umbrella header "Pods-Nikola-umbrella.h"
+
+  export *
+  module * { export * }
+}
